@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the documentation
+    url: https://crateview.de/docs/overview
+    about: Find setup instructions, configuration and usage guides.
+  - name: Crateview application issues
+    url: https://github.com/crateview/registry-ui/issues/new/choose
+    about: Report application bugs, request features or ask usage questions.
+  - name: Documentation and translation issues
+    url: https://github.com/crateview/docs/issues/new/choose
+    about: Report incorrect or missing documentation and translations.
+  - name: Report a security vulnerability privately
+    url: https://github.com/crateview/registry-ui/security/policy
+    about: Follow the security policy. Do not disclose vulnerabilities in public issues.
